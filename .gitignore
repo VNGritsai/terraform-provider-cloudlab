@@ -1,0 +1,17 @@
+.DS_Store
+terraform.tfplan
+terraform.tfstate
+bin/
+dist/
+.vagrant/
+*.backup
+.terraform/
+*.log
+*.bak
+*~
+.*.swp
+.idea
+*.iml
+*.test
+*.iml
+terraform-provider-cloudlab
